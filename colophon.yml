@@ -1,8 +1,8 @@
 version: 2.0
 
-id: action-composite-template
+id: action-metadata
 
 about:
-  title: Template GitHub Composite Actions
-  description: A template for GitHub Template GitHub Composite Actions
-  repository: khulnasoft/action-composite-template
+  title: Actions Metadata
+  description: All repo and event metadata for use in Actions workflows
+  repository: khulnasoft-lab/action-metadata

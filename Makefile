@@ -1,7 +1,7 @@
 #!/usr/bin/make
 
 # ------------------------------------------------------- #
-# Note: this file originates in action-composite-template #
+# Note: this file originates in template-action-composite #
 # ------------------------------------------------------- #
 
 # Docker
