@@ -113,7 +113,7 @@ This action will output the following properties:
 
 ----
 > Author: [KhulnaSoft Lab](https://www.khulnasoft.com/) &bull;
-> Twitter: [@AhmadNassri](https://twitter.com/AhmadNassri)
+> Twitter: [@khulnasoft](https://twitter.com/AhmadNassri)
 
 [license-url]: LICENSE
 [license-img]: https://badgen.net/github/license/khulnasoft-lab/action-metadata
