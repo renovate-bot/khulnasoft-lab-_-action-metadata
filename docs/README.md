@@ -90,7 +90,7 @@ This action will output the following properties:
 | `license_spdx_id`                           | MIT                                                      |
 | `owner_id`                                  | 183195                                                   |
 | `owner_login`                               | khulnasoft                                              |
-| `owner_avatar_url`                          | https://avatars.githubusercontent.com/u/183195?v=4       |
+| `owner_avatar_url`                          | https://avatars.githubusercontent.com/u/43526139?v=4       |
 | `owner_html_url`                            | https://github.com/khulnasoft                           |
 | `owner_type`                                | User                                                     |
 | `template_repository_id`                    | 342988151                                                |
